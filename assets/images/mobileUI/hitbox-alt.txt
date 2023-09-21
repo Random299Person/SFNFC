@@ -1,2 +1,2 @@
-spacebar = 0 0 3840 720
-hitbox = 0 360 960 360
+spacebar = 0 0 3840 180
+hitbox = 0 180 960 540

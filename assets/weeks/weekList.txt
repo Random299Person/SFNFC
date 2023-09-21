@@ -10,5 +10,6 @@ week7
 #dsides
 week1d
 week2d
+week3d
 #mods
 qt
