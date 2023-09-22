@@ -35,3 +35,10 @@ kb-404-angry
 qt
 qt-kb
 qt-nervous
+
+bfd
+dadd
+gfd
+spookyd
+picod
+monsterd

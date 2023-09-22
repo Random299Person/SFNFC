@@ -160,7 +160,7 @@
 				-90,
 				0
 			],
-			"anim": "Dodge down",
+			"anim": "singDOWN-dodge",
 			"fps": 24,
 			"name": "BF NOTE DOWN DODGE",
 			"indices": []
@@ -171,7 +171,7 @@
 				40,
 				-40
 			],
-			"anim": "Dodge left",
+			"anim": "singLEFT-dodge",
 			"fps": 24,
 			"name": "BF NOTE LEFT DODGE",
 			"indices": []
@@ -182,7 +182,7 @@
 				-17,
 				38
 			],
-			"anim": "Dodge up",
+			"anim": "singUP-dodge",
 			"fps": 24,
 			"name": "BF NOTE UP DODGE",
 			"indices": []
@@ -193,7 +193,7 @@
 				-157,
 				-2
 			],
-			"anim": "Dodge right",
+			"anim": "singRIGHT-dodge",
 			"fps": 24,
 			"name": "BF NOTE RIGHT DODGE",
 			"indices": []
